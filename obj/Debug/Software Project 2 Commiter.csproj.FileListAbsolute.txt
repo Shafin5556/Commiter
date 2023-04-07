@@ -1,0 +1,12 @@
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\bin\Debug\Software Project 2 Commiter.exe.config
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\bin\Debug\Software Project 2 Commiter.exe
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\bin\Debug\Software Project 2 Commiter.pdb
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\obj\Debug\Software Project 2 Commiter.csproj.AssemblyReference.cache
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\obj\Debug\Software Project 2 Commiter.csproj.SuggestedBindingRedirects.cache
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\obj\Debug\Software_Project_2_Commiter.Main.resources
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\obj\Debug\Software_Project_2_Commiter.Properties.Resources.resources
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\obj\Debug\Software Project 2 Commiter.csproj.GenerateResource.cache
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\obj\Debug\Software Project 2 Commiter.csproj.CoreCompileInputs.cache
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\obj\Debug\Software Project 2 Commiter.csproj.CopyComplete
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\obj\Debug\Software Project 2 Commiter.exe
+I:\C#\Commiter\Software Project 2 Commiter\Software Project 2 Commiter\obj\Debug\Software Project 2 Commiter.pdb
